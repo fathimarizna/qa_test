@@ -1,2 +1,2 @@
 # qa_test
-QA repo
+QA repo for test cases
